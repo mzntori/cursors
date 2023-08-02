@@ -11,4 +11,4 @@ These will only work for windows.
 
 [Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
 
-[Preview](https://github.com/mzntori/cursors/tree/main/Mococo)
+[Preview](https://github.com/mzntori/cursors/tree/main/Mococo) (Scroll down a bit, the animation doesnt loop atm)
