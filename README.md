@@ -1,4 +1,9 @@
-## installation
+## Download & Installation
 These will only work for windows.
-I recommend [this Video](https://www.youtube.com/watch?v=jTfSGtudh84) as a tutorial. 
-It will work on Windows 10 and 11 (and I assume even below 10).
+
+- Pick the cursor set you want from the release page or below.
+- unpack the .ani files in some folder where you won't delete them.
+- To activate them follow [this Tutorial](https://www.youtube.com/watch?v=jTfSGtudh84) which will work on win10 and win11
+
+## Releases
+Mococo from FUWAMOCO -> [Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
