@@ -6,6 +6,9 @@ These will only work for windows.
 - To activate them follow [this Tutorial](https://www.youtube.com/watch?v=jTfSGtudh84) which will work on win10 and win11
 
 ## Releases
+
 ### Mococo from FUWAMOCO
+
 [Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
+
 [Preview](https://github.com/mzntori/cursors/tree/main/Mococo)
