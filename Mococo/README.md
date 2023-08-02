@@ -1,6 +1,7 @@
 # Mococo
 
 Mococo from [FUWAMOCO Ch. hololive-EN](https://www.youtube.com/@FUWAMOCOch).
+Download -> [Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
 
 ## Preview
 
