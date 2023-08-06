@@ -6,9 +6,6 @@ Download .zip [Here](https://github.com/mzntori/cursors/releases/tag/Mococo)
 
 ## Preview
 
-### Base Animation
-![](raw_gifs/!base_animation_preview.gif)
-
 ### Normal Select/Alternate Select
 ![](raw_gifs/normal_select.gif)
 ![](raw_gifs/normal_select_alt1.gif)
