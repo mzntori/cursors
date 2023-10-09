@@ -13,3 +13,9 @@ These will only work for windows.
 [Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
 
 [Preview](https://github.com/mzntori/cursors/tree/main/Mococo) (Scroll down a bit, the animation doesnt loop atm)
+
+### Daph
+
+[Release](https://github.com/mzntori/cursors/releases/tag/Daph)
+
+[Preview](https://github.com/mzntori/cursors/tree/main/Daph) (Scroll down a bit, the animation doesnt loop atm)
