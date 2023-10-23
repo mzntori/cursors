@@ -10,18 +10,18 @@ These will only work for windows.
 
 ### Mococo from FUWAMOCO
 
-[Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
+- [Release](https://github.com/mzntori/cursors/releases/tag/Mococo)
 
-[Preview](https://github.com/mzntori/cursors/tree/main/Mococo) (Scroll down a bit, the animation doesnt loop atm)
+- [Preview](https://github.com/mzntori/cursors/tree/main/Mococo/README.md) (the animation in the preview doesnt loop atm)
 
 ### Daph
 
-[Release](https://github.com/mzntori/cursors/releases/tag/Daph)
+- [Release](https://github.com/mzntori/cursors/releases/tag/Daph)
 
-[Preview](https://github.com/mzntori/cursors/tree/main/Daph) (Scroll down a bit, the animation doesnt loop atm)
+- [Preview](https://github.com/mzntori/cursors/tree/main/Daph/README.md) (the animation in the preview doesnt loop atm)
 
 ### ya5hu
 
-[release](https://github.com/mzntori/cursors/releases/tag/ya5hu)
+- [Release](https://github.com/mzntori/cursors/releases/tag/ya5hu)
 
-[preview](https://github.com/mzntori/cursors/blob/main/ya5hu/README.md)
+- [Preview](https://github.com/mzntori/cursors/blob/main/ya5hu/README.md) (the animation in the preview doesnt loop atm)
