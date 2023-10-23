@@ -19,3 +19,9 @@ These will only work for windows.
 [Release](https://github.com/mzntori/cursors/releases/tag/Daph)
 
 [Preview](https://github.com/mzntori/cursors/tree/main/Daph) (Scroll down a bit, the animation doesnt loop atm)
+
+### ya5hu
+
+[release](https://github.com/mzntori/cursors/releases/tag/ya5hu)
+
+[preview](https://github.com/mzntori/cursors/blob/main/ya5hu/README.md)
